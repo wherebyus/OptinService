@@ -15,7 +15,7 @@
       "WBU\\Http\\": "app/Http",
       "WBU\\Tests\\": "tests"
     }
-  },.
+  },
   "config": {
     "platform": {
       "php": "7.2"
