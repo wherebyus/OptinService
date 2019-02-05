@@ -1,0 +1,32 @@
+{
+  "name": "wherebyus/optinservice",
+  "description": "A service for better interacting with a custom Optin WordPress post type",
+  "type": "project",
+  "authors": [
+    {
+      "name": "WhereBy.Us",
+      "email": "hello@whereby.us"
+    }
+  ],
+  "autoload": {
+    "classmap": [],
+    "psr-4": {
+      "WBU\\": "app",
+      "WBU\\Http\\": "app/Http",
+      "WBU\\Tests\\": "tests"
+    }
+  },.
+  "config": {
+    "platform": {
+      "php": "7.2"
+    }
+  },
+  "require": {
+    "php": "^7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5",
+    "mockery/mockery": "^1.2",
+    "10up/wp_mock": "^0.4.0"
+  }
+}
