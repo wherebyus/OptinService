@@ -5,6 +5,8 @@ Coming soon.
 What is this and what is it for? Put a meaningful, short, plain-language description of what this project is trying to accomplish and why it matters. Describe the problem this project solves.
 
 #### Status
+[![Maintainability](https://api.codeclimate.com/v1/badges/2f02469bc401b191ae35/maintainability)](https://codeclimate.com/github/wherebyus/OptinService/maintainability)
+
 Is it done? Is it a prototype? Is it a zombie? Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](https://github.com/cfpb/ckan/blob/master/CHANGELOG.md).
 
 #### Screenshots
